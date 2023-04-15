@@ -1,5 +1,7 @@
 # net-deauth
 
+Ağdaki cihazı paketler göndererek ağdan düşürmek için kullanılır.
+
 ## Gereksinimler
 
 net-deauth aşağıdaki kütüphaneleri kullanır.
